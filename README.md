@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=venom&text=SHIM-JINSEO&theme=cobalt)
+![header](https://capsule-render.vercel.app/api?type=venom&text=SHIM-JINSEO&color=7965C1)
 <!--
 **SHIM-JINSEO/SHIM-JINSEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
