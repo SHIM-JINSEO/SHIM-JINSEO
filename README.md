@@ -1,4 +1,4 @@
-![Venom Text](https://capsule-render.vercel.app/api?type=venom&text=HelloI'm%20JINSEO%20Text&color=0:0E2148,50:483AA0,100:7965C1&fontColor=FFFFFF)
+![Venom Text](https://capsule-render.vercel.app/api?type=venom&text=Hello%20I'm%20JINSEO%20&color=0:0E2148,50:483AA0,100:7965C1&fontColor=FFFFFF)
 <!--
 **SHIM-JINSEO/SHIM-JINSEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
