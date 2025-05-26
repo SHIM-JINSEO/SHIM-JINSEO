@@ -1,4 +1,5 @@
 ![Venom Text](https://capsule-render.vercel.app/api?type=venom&text=Hello%20I'm%20JINSEO%20&color=0:0E2148,50:483AA0,100:7965C1&fontColor=FFFFFF)
+### my tech stack
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <!--
