@@ -2,7 +2,7 @@
 - 🔭 I’m currently `fontend developer` in GIST
 - 🌱 I’m currently interested in `Design` and `AI`
 - 📫 How to reach me: jinseo5892@gm.gist.ac.kr
-- ⚡ Fun fact: I am also interested ib `Physics`👨‍🏫
+- ⚡ Fun fact: I am also interested in `Physics`👨‍🏫
 
 <p>Framework</p>
 <div>
