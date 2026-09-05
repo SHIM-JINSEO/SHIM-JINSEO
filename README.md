@@ -1,8 +1,8 @@
 ### Hello I'm Shim Jinseo👍</h3>
-- 🔭 I’m currently `frontend developer` in GIST
-- 🌱 I’m currently interested in `Design` and `AI`
+- 🔭 I’m currently `AI researcher`in GIST(Personal Research Website: https://shim-jinseo.github.io/ )
+- 🌱 I’m also interested in `frontend development`
 - 📫 How to reach me: jinseo5892@gm.gist.ac.kr
-- ⚡ Fun fact: I am also interested in `Physics`👨‍🏫
+- ⚡ Fun fact: I am also interested in `Physics`👨‍🏫 (Minor in GIST)
 
 <p>Framework</p>
 <div>
